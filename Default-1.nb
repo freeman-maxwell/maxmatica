@@ -1,0 +1,56 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1555,         48]
+NotebookOptionsPosition[       889,         28]
+NotebookOutlinePosition[      1605,         50]
+CellTagsIndexPosition[      1562,         47]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{"<<", 
+  "\"\<https://raw.githubusercontent.com/freemanmaxwell/maxmatica/main/\
+Maxmatica.m\>\""}]], "Input",
+ CellChangeTimes->{{3.8734520178645325`*^9, 3.873452043839184*^9}, {
+  3.873462344133537*^9, 3.873462344833327*^9}},
+ CellLabel->"In[4]:=",ExpressionUUID->"f4c57388-3f7f-414c-a18b-8eb931d641b9"]
+},
+WindowSize->{571.8, 524.4},
+WindowMargins->{{284.4, Automatic}, {12, Automatic}},
+FrontEndVersion->"12.1 for Microsoft Windows (64-bit) (June 19, 2020)",
+StyleDefinitions->Notebook[{
+   Cell[
+    StyleData[StyleDefinitions -> "Default.nb"]]}, 
+  WindowSize -> {582.6, 487.79999999999995`}, 
+  WindowMargins -> {{0, Automatic}, {Automatic, 0}}, Visible -> False, 
+  FrontEndVersion -> "12.1 for Microsoft Windows (64-bit) (June 19, 2020)", 
+  StyleDefinitions -> "PrivateStylesheetFormatting.nb"],
+ExpressionUUID->"0f28ad4a-79f2-4af6-87c5-d9768c35b9b8"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 327, 6, 98, "Input",ExpressionUUID->"f4c57388-3f7f-414c-a18b-8eb931d641b9"]
+}
+]
+*)
+

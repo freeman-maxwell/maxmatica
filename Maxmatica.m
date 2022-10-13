@@ -7,3 +7,5 @@ SI[x_] := UnitConvert[x, "SIBase"]
 UC[a__][x_]:= UnitConvert[x, a]
 (*Remove Units*)
 Q[x_]:= QuantityMagnitude[x]
+(*Remove Units, after converting to base SI*)
+QSI[x_]:= QuantityMagnitude[x, "SIBase"]
